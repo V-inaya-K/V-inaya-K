@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌊Hi,I am Vinayak Shukla, currently a sophomore at NIEC.<br>⚡I'm Currently working on Deepfake Detection ML model with Multi lingual support.<br>🔥Eager to Learn Web3.0 and working to improve web3 skills.<br>🌟I'm Currently learning Android Development using Dart.<br>🌠Fun fact: I may be slow but never dissapooints.
+🌊Hi,I am Vinayak Shukla, currently a student at NIEC,GGSIPU.<br>⚡I'm Currently working on Deepfake Detection ML model with Multi lingual support.<br>🔥Eager to Learn Web3.0 and working to improve web3 skills.<br>🌟I'm Currently learning Android Development using Dart.<br>🌠Fun fact: I may be slow but never dissapooints.
 
 
 ## 🌐 Socials:
